@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.tcc": "c",
+        "typeinfo": "c",
+        "random": "c",
+        "limits": "c",
+        "algorithm": "c",
+        "cstdlib": "c",
+        "memory": "c",
+        "new": "c",
+        "string": "c",
+        "string_view": "c",
+        "stdint.h": "c",
+        "dictionary.h": "c"
+    },
+    "gitdoc.enabled": true
+}
